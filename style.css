@@ -12,11 +12,11 @@
           width: 40%;
           background-color: whitesmoke;
       } 
-      .table2 {
+      .section_1 {
           border-width: 2;
           width: 40%;
       }
-      .table2:hover {
+      .secion_1:hover {
           background-color: wheat;
       }
       td {
