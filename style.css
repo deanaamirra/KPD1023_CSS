@@ -1,24 +1,24 @@
 .ini_ialah_body {
-          background-color: yellowgreen;
+        background-color: yellowgreen;
       }
       .header {
-          text-align: center;
-          font-size: 50;
-          font-style: italic;
+        text-align: center;
+        font-size: 50;
+        font-style: italic;
       }
       table {
-          border-style: dotted;
-          border-width: 2;
-          width: 40%;
-          background-color: whitesmoke;
-      } 
-      .section_1 {
-          border-width: 2;
-          width: 40%;
+        border-style: dotted;
+        border-width: 2;
+        width: 40%;
+        background-color: whitesmoke;
       }
-      .secion_1:hover {
-          background-color: wheat;
+      .section-1 {
+        border-width: 2;
+        width: 40%;
+      }
+      .section_1:hover {
+        background-color: wheat;
       }
       td {
-          border-style: solid;
+        border-style: solid;
       }
