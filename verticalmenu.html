@@ -37,7 +37,7 @@
         display: block;
       }
       li:hover {
-      background-color: wheat;
+        background-color: wheat;
       }
       .kandungan {
         width: 45%;
@@ -50,9 +50,10 @@
         float: right;
         margin-right: 10p%;
       }
-      .vertical {
-      content: "";
+      .vertical:after {
+        content: "";
         display: table;
+        clear: both;
       }
       .nota kaki {
         width: 80%;
@@ -60,6 +61,11 @@
         border-style: solid;
         border-color: tomato;
         background-color: teal;
+        width: 80%;
+        margin: auto;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: center;
       }
     </style>
   </head>
@@ -70,7 +76,7 @@
       Vertical Menu
     </div>
     
-    <div class="vertical>
+    <div class="vertical">
     <!--MENU-->
     <div class="menu">
       <ul>
